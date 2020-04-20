@@ -1,4 +1,5 @@
-Nothing in the description, the challenge title let to googling since i didnt know what lynxve was..  its a text based browser.
+Nothing in the description, the challenge title led to googling since i didnt know what lynxve was..  its a text based browser.
+
 
 Looking into it's functionality and options.  There is a setting for the bookmarks file which stands out as something I should look into to read from the filesystem.
 
