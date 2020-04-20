@@ -10,7 +10,8 @@ they provided an encrypted flag.gif file for us to decrypt.
 the key is seeded with a timestamp. so we need the time that it was encrypted to be able to create the key to decrypt it.
 
 
-they provided us with a pcap that sends an epoch timestamp over the socket it's communicating over.
+they provided us with a pcap that sends an epoch timestamp over the socket it's communicating with.
+
 timestamp: 1585599106
 
 
