@@ -1,4 +1,4 @@
-We are given the dorsia gif and directed towards the 2nd card in the gif, which has new code. The description also tells us that:
+We are given the dorsia video and directed towards the 2nd card in the video, which has new code. The description also tells us that:
 flag is in ~/flag.txt and the code is run in /home/ctf/web/
 
 ```
